@@ -1,0 +1,8 @@
+[mod]
+title: MWIRW
+description: More Warfare In Rusted Warfare
+
+minVersion: v1.15p7
+
+tags: starting-units, units
+
